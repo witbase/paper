@@ -18,6 +18,6 @@
 
 [9] Shu-Ren Zhou*, Jian-Ping Yin, Jian-Ming Zhang. LBP and LPQ Based on Gabor Filter for Face Representation. Neurocomputing,116(2013), 260-264. https://doi.org/10.1016/j.neucom.2012.05.036
 
-[10] Feng Li, Shu-Ren Zhou*, Jian-Ming Zhang, Deng-Yong Zhang, Ling-Yun Xiang. Attribute-based knowledge transfer learning for human pose estimation, Neurocomputing,116(2013), 301-310.
+[10] Feng Li, Shu-Ren Zhou*, Jian-Ming Zhang, Deng-Yong Zhang, Ling-Yun Xiang. Attribute-based knowledge transfer learning for human pose estimation, Neurocomputing,116(2013), 301-310. https://doi.org/10.1016/j.neucom.2012.05.032
 
 [11] Shuren Zhou*,Jianping Yin. LBP Texture Feature Based on Haar Characteristics. Journal of Software,2013,24(8):1909-1926.
