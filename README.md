@@ -16,7 +16,7 @@
 
 [8] Shuren Zhou*, Wenlong Liang, Junguo Li, Jeong-Uk Kim. Improved VGG Model for Road Traffic Sign Recognition. Computers Materials & Continua, 2018,57(1):11-24. http://doi.org/10.32604/cmc.2018.02617
 
-[9] Shu-Ren Zhou*, Jian-Ping Yin, Jian-Ming Zhang. LBP and LPQ Based on Gabor Filter for Face Representation. Neurocomputing,116(2013), 260-264.
+[9] Shu-Ren Zhou*, Jian-Ping Yin, Jian-Ming Zhang. LBP and LPQ Based on Gabor Filter for Face Representation. Neurocomputing,116(2013), 260-264. https://doi.org/10.1016/j.neucom.2012.05.036
 
 [10] Feng Li, Shu-Ren Zhou*, Jian-Ming Zhang, Deng-Yong Zhang, Ling-Yun Xiang. Attribute-based knowledge transfer learning for human pose estimation, Neurocomputing,116(2013), 301-310.
 
