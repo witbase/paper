@@ -4,7 +4,7 @@
 
 [2] Shuren Zhou*, 
 
-[3] Shuren Zhou*, Jie Wu, Fan Zhang, Paramjit Sehdev. Depth Occlusion Perception Feature Analysis for Person Re-identification. Pattern Recognition Letters, 2020. Accept
+[3] Shuren Zhou*, Jie Wu, Fan Zhang, Paramjit Sehdev. Depth Occlusion Perception Feature Analysis for Person Re-identification. Pattern Recognition Letters, 2020. https://doi.org/10.1016/j.patrec.2020.09.009
 
 [4] Shuren Zhou*, Le Chen, Vijayan Sugumaran. Hidden Two-Stream Collaborative Learning Network for Action Recognition. Computers Materials & Continua, 2020,63(3):1545-1561. https://doi.org/10.32604/cmc.2020.09867
 
