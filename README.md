@@ -1,6 +1,6 @@
 # paperlist
 
-[1] Shuren Zhou*, 
+[1] Shuren Zhou*, Ying Wang, Fan Zhang, Jie Wu. Cross-view Similarity Exploration for Unsupervised Cross-Domain Person Re-identification. Neural Computing & Applications, 2021. https://doi.org/10.1007/s00521-020-05566-3
 
 [2] Shuren Zhou*, Jia Qiu. Enhanced SSD with interactive multi-scale attention features for object detection. Multimedia Tools and Applications, 2021, https://doi.org/10.1007/s11042-020-10191-2
 
