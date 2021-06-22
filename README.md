@@ -1,6 +1,6 @@
 # paperlist
 
-[1] Shuren Zhou*, Ying Wang, Fan Zhang, Jie Wu. Cross-view Similarity Exploration for Unsupervised Cross-Domain Person Re-identification. Neural Computing & Applications, 2021, 33(9):4001–4011.https://doi.org/10.1007/s00521-020-05566-3
+[1] Shuren Zhou*, Ying Wang, Fan Zhang, Jie Wu. Cross-view Similarity Exploration for Unsupervised Cross-Domain Person Re-identification. Neural Computing & Applications, 2021, 33:4001–4011.https://doi.org/10.1007/s00521-020-05566-3
 
 [2] Shuren Zhou*, Jia Qiu. Enhanced SSD with interactive multi-scale attention features for object detection. Multimedia Tools and Applications, 2021, 80(8):11539-11556. https://doi.org/10.1007/s11042-020-10191-2
 
@@ -10,9 +10,9 @@
 
 [5] Shuren Zhou*, Bo Tan. Electrocardiogram soft computing using hybrid deep learning CNN-ELM. Applied Soft Computing, 2020,86:105778. https://doi.org/10.1016/j.asoc.2019.105778
 
-[6] Shuren Zhou*, Peng Luo, Deepak Kumar Jain, XiangYuan Lan, Yudong Zhang. Double-Domain Imaging and Adaption for Person Re-Identification. IEEE Access, 2019(7):103336-103345. https://dx.doi.org/10.1109/ACCESS.2019.2930865
+[6] Shuren Zhou*, Peng Luo, Deepak Kumar Jain, XiangYuan Lan, Yudong Zhang. Double-Domain Imaging and Adaption for Person Re-Identification. IEEE Access, 2019,7:103336-103345. https://dx.doi.org/10.1109/ACCESS.2019.2930865
 
-[7] Shuren Zhou*, Maolin Ke, Peng Luo. Multi-Camera Transfer GAN for Person Re-Identification. Journal of Visual Communication and Image Representation, 2019,59(2):393-400. https://doi.org/10.1016/j.jvcir.2019.01.029
+[7] Shuren Zhou*, Maolin Ke, Peng Luo. Multi-Camera Transfer GAN for Person Re-Identification. Journal of Visual Communication and Image Representation, 2019,59:393-400. https://doi.org/10.1016/j.jvcir.2019.01.029
 
 [8] Shuren Zhou*, Wenlong Liang, Junguo Li, Jeong-Uk Kim. Improved VGG Model for Road Traffic Sign Recognition. Computers Materials & Continua, 2018,57(1):11-24. http://doi.org/10.32604/cmc.2018.02617
 
