@@ -1,5 +1,5 @@
 # paperlist
-[1] Shuren Zhou, Liang Peng. Channel sifted model for pose estimation. Applied Intelligence, 2022, XX(XX):XX-XX. https://doi.org/10.1007/s10489-022-04091-1
+[1] Shuren Zhou*, Liang Peng. Channel sifted model for pose estimation. Applied Intelligence, 2022, XX(XX):XX-XX. https://doi.org/10.1007/s10489-022-04091-1
 
 [2] Shuren Zhou*, Fan Zhang, Wenmin Zou. Focusing on shared areas for Partial Person Re-identification. Applied Artificial Intelligence, 2022, 36(1):1-19.
 https://doi.org/10.1080/08839514.2022.2031818
