@@ -1,5 +1,6 @@
 # paperlist
 [1] Shuren Zhou, Mengsi Zhang. Occluded person re-identification based on embedded graph matching network for contrastive feature relation. Pattern Analysis and Applications, 2022, XX(X):XX-XX. https://doi.org/10.1007/s10044-022-01123-x
+
 [2] Shuren Zhou*, Liang Peng. Channel sifted model for pose estimation. Applied Intelligence, 2022, 36(1):1-19. https://doi.org/10.1007/s10489-022-04091-1
 
 [3] Shuren Zhou*, Fan Zhang, Wenmin Zou. Focusing on shared areas for Partial Person Re-identification. Applied Artificial Intelligence, 2022, 36(1):1-19.
